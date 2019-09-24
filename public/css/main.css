@@ -1,0 +1,45 @@
+#groupInviteLink{
+	padding-top: 70px;
+	font-weight: 400;
+	color: #923585; 
+	font-size: 18px; 
+}
+
+#copyLink{
+	color: #3e88d2;
+}
+
+#title{
+	font-weight: 300; 
+	line-height: 1.5em;
+	color: #262626; 
+	font-size: 36px;
+}
+
+#icon {
+  position:absolute;
+  top:-40px;
+  font-size:30px;
+  display:inline-block;
+  background-color:white;
+  left: 45%;
+}
+
+#inviteForm{
+	text-align: center;
+	border: 1px solid #ced4da;
+  	border-radius: 25px;
+	padding: 40px;
+  	position:relative;
+}
+
+#groupHead{
+	background-color: #ccc;
+	border-color: #ccc;
+}
+
+#emailInput{
+	background-color: rgba(12,13,14,0.05);
+	color: #3e88d2;
+	font-family: ​ 'Open Sans', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, sans-serif;
+}
